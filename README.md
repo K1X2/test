@@ -6,7 +6,7 @@ oh hi there.
 </html>
 <html>
 <body>
-  <ol> type ="I"
+  <ol type ="I">
    <li> This is the first time I make a file 
      <li> Everyone else sucks at this but me
        <li> اعرف العربي
