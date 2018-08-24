@@ -1,6 +1,6 @@
 # My Page
 <html>
-<body style="background-color:blue;">
+<body style="background-color:red;">
 oh hi there.
 </body>
 </html>
