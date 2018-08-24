@@ -1,3 +1,4 @@
+<!doctypehtml>
 # My Page
 <html>
 <body>
