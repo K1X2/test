@@ -7,7 +7,7 @@ oh hi there.
 <html>
 <body>
   <ol type ="I">
-   <li> This is the first time I make a file 
+    <li> <p style="color:blue;> This is the first time I make a file </p> 
      <li> Everyone else sucks at this but me
        <li> اعرف العربي
   </ol>
